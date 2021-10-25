@@ -1,0 +1,6 @@
+*.spec
+*.csv
+*.xlsx
+dist/
+__pycache__/
+build/
